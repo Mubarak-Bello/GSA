@@ -25,8 +25,8 @@ Businesses often struggle with fragmented data, making it difficult to track per
 
 ## DATA MODELLING
 
-:---------------------------:|:---------------------------:
-![](Excel_data.png)|![](Query_View.jpg)
+: --------------------------- : | : --------------------------- :
+ ![](Excel_data.png) | ![](Query_View.jpg)
 
 # DASHBOARD
 
