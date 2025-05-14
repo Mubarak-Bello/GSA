@@ -23,13 +23,16 @@ Businesses often struggle with fragmented data, making it difficult to track per
 - Quick measure: This made getting important KPI's easy.
 - Filters and Themes: This added extra touch of beauty to the report.
 
-##DATA MODELLING
+## DATA MODELLING
 
-##DASHBOARD
+:---------------------------:|:---------------------------:
+![](Excel_data.png)|![](Query_View.jpg)
 
-##ANALYSIS
+# DASHBOARD
 
-##CONCLUSION AND RECOMMENDATION
+![](Dashboard.png)
+
+# CONCLUSION AND RECOMMENDATION
 
 ## Key Takeaways
 
